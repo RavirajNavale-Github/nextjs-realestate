@@ -33,7 +33,7 @@ export default function Navbar() {
             href="#"
             className="text-2xl font-bold text-slate-900"
           >
-            PrimeEstate
+            PrimeEstatee
           </a>
 
           <nav className="hidden md:flex items-center gap-8">

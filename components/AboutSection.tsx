@@ -38,7 +38,7 @@ export default function AboutSection() {
               commercial properties across prime locations.
               Our team of experienced professionals ensures
               a smooth and transparent property journey from
-              start to finish.
+              start to finish. I am adding this text just to change csome sontent so I commit something.
             </p>
 
             <p className="text-gray-600 mt-4 leading-relaxed">
